@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Classes e IDs</title>
+    <style>
+        .texto-vermelho {
+            color: red;
+        }
+
+        /* Estilizando o ID */
+        #texto-azul {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+    <p class="texto-vermelho">Este é o primeiro parágrafo com a classe "texto-vermelho".</p>
+    <p id="texto-azul">Este é o segundo parágrafo com o ID "texto-azul".</p>
+
+</body>
+</html>
