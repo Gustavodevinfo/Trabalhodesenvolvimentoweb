@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card com perfil</title>
+    <style>
+        #vasco{
+           width: 300px;
+           border: 1px solid;
+           border-radius: 10px;
+           box-shadow: 4px 6px;
+        }
+        #vasco img{
+            width: 100%;
+            border-radius: 10px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="vasco">
+        <img src="Vasco.jpg">
+    <div id="conteiner">
+        <p>Gigante da Colina</p>
+
+</body>
+</html>
