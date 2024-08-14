@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu vertical</title>
+    <style>
+        ul{
+            width: 10000px;
+            background-color: brown;
+            color: white;
+        }
+        #nar :hover{
+            background-color:blue;
+        }
+        #L :hover{
+            background-color: purple;
+        }
+        #Dra :hover{
+            background-color: black;
+        }
+        #Baku :hover{
+            background-color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <ul id="nar">
+        <li>Naruto</li>
+    </ul>
+    <ul id="L">
+        <li>Death Note</li>
+    </ul>
+    <ul id="Dra">
+        <li>Dragonball</li>
+    </ul>
+    <ul id="Baku">
+        <li>Bakugan</li>
+    </ul>
+</body>
+</html>
